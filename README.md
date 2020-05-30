@@ -1,4 +1,4 @@
-# 🧑🏻 opencv-FaceDetector
+# 🧑🏻 opencv-Image-FaceDetector
 
 
 ## Instalitations
